@@ -1,5 +1,5 @@
 ### Hello Fellow Devs 👋 Glad to see you here! 
-It's Sultan🙋, a Fellow Frontend Developer and Open Source Enthusiast from İstanbul (Turkey).
+It's Sultan🙋, a Fellow Front-end Developer and Open Source Enthusiast from İstanbul (Turkey).
 
 Check out this repository to learn more about me 🤓
 
