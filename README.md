@@ -2,7 +2,7 @@
 ### Glad to see you here! 
 
 
-It's Sultan🙋, a Fellow Front-end Developer and Open Source Enthusiast from İstanbul, :tr: 🏠
+It's Sultan🙋, a Fellow Front-end Developer and Open Source Enthusiast from İstanbul, :tr: 
 
 Check out this repository to learn more about me 🤓
 
