@@ -2,7 +2,7 @@
 ### Glad to see you here! 
 
 
-It's Sultan🙋, a Jr.Back-end Developer candidate and Open Source Enthusiast from İstanbul, :tr: 
+It's Sultan🙋, a Jr.Back-end Developer and Open Source Enthusiast from İstanbul, :tr: 
 
 Check out this repository to learn more about me 🤓
 
